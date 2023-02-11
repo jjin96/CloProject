@@ -1,0 +1,6 @@
+2023-02-11 20:52:33,932  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7240
+ 2023-02-11 20:52:33,969  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5240
+ 2023-02-11 20:52:33,974  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-02-11 20:52:33,977  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2023-02-11 20:52:33,978  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: D:\새 폴더\Source\CloProject1\CloProject1\
+ 

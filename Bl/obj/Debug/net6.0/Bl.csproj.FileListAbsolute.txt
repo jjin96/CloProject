@@ -1,0 +1,15 @@
+D:\새 폴더\Source\CloProject1\Bl\bin\Debug\net6.0\Bl.deps.json
+D:\새 폴더\Source\CloProject1\Bl\bin\Debug\net6.0\Bl.dll
+D:\새 폴더\Source\CloProject1\Bl\bin\Debug\net6.0\Bl.pdb
+D:\새 폴더\Source\CloProject1\Bl\bin\Debug\net6.0\Common.dll
+D:\새 폴더\Source\CloProject1\Bl\bin\Debug\net6.0\Common.pdb
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\Bl.dll
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\refint\Bl.dll
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\Bl.pdb
+D:\새 폴더\Source\CloProject1\Bl\obj\Debug\net6.0\ref\Bl.dll
